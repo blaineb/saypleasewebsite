@@ -5,7 +5,7 @@ body {
 	line-height: 1.6;
 	font-weight: 400;
 	background-color: rgb(215, 163, 62); /* Colorthief avg for bg6.jpg */
-	font-family: "Futura PT", "Futura", Futura, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "futura-pt", "Futura PT", "Futura", Futura, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #595151;
 	color: white;
 	display: flex;
